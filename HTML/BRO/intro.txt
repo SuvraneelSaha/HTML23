@@ -1,0 +1,7 @@
+html is like building block of a house 
+it is the most basic building block of web 
+
+then css - for style the house 
+
+js - functionality in case of a house
+
